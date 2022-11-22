@@ -3,9 +3,12 @@ Proyecto Grupal - Cloud Consulting
 En el proyecto grupal del bootcamp de salesforce desarrollamos un sistema para gestionar proyectos de una empresa de TI y que le permita a la misma salirse de los procesos manuales que hoy en día tienen a través de excels, documentos y repositorios que no se encuentran integrados ni automatizados.
 Herramientas usadas: 
 - Desarrollo programático: Triggers, classes, lightning web components 
-- Desarrollo low code: Screen flow, Trigger flows, validation rules, approval process, app builder 
+- Desarrollo low code: Screen flow, Trigger flows, validation rules, approval process, app builder ,profiles
 - Herramientas de desarrollo: Visual Studio Code, Salesforce DX, github 
-- Importación de datos con Data Import Wizard
+- Metodologías agiles: Scrum, con trello como herramienta de seguimiento de tareas y user stories.
+
+*Mi aporte en el proyecto fue en ambas áreas de desarrollo, en el  declarativo hice reportes, dashboards, validation rules, hice trigger flows para automatizar funciones. En el programático hice el clase y lwc de carga de horas de las tareas, también aporté en trigger para función de fuera de oficina.
+
 
 Funcionalidades requeridas:
 
