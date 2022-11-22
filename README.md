@@ -7,7 +7,7 @@ Herramientas usadas:
 - Herramientas de desarrollo: Visual Studio Code, Salesforce DX, github 
 - Metodologías agiles: Scrum, con trello como herramienta de seguimiento de tareas y user stories.
 
-*Mi aporte en el proyecto fue en ambas áreas de desarrollo, en el  declarativo hice reportes, dashboards, validation rules, hice trigger flows para automatizar funciones. En el programático hice el clase y lwc de carga de horas de las tareas, también aporté en trigger para función de fuera de oficina.
+*Mi aporte en el proyecto fue en ambas áreas de desarrollo, en el  declarativo hice reportes, dashboards, validation rules, hice trigger flows para automatizar funciones. En el programático hice clase para servir el lwc de carga de horas de las tareas, también aporté en trigger para función de fuera de oficina.
 
 
 Funcionalidades requeridas:
