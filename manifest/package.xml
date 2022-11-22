@@ -140,7 +140,7 @@
 		<members>addTasks</members>
 		<members>header</members>
 		<members>resourceAllocation</members>
-		<members>task</members>
+		<members>tasks</members>
 		<name>LightningComponentBundle</name>
 	</types>
 	<types>
